@@ -1,5 +1,5 @@
-高精度
-https://ac.nowcoder.com/acm/contest/5758/H
+// 高精度
+// https://ac.nowcoder.com/acm/contest/5758/H
 
 #include <bits/stdc++.h>
 #define BT ios::sync_with_stdio(false), std::cin.tie(0), std::cout.tie(0);
