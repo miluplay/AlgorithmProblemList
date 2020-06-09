@@ -1,3 +1,4 @@
+// 总链接 https://ac.nowcoder.com/acm/contest/5758
 // https://ac.nowcoder.com/acm/contest/5758/E
 
 #include <bits/stdc++.h>
