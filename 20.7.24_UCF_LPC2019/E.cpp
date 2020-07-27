@@ -41,8 +41,7 @@ int main() {
       newMemoIndex[j] = false;
       for (int k = 0; k < oldMemoSize; k++) {
         ll temp_res = get_step(dict[i - 1].mus_n[k], dict[i].mus_n[j], t);
-        if()
-      }
+        if () }
     }
   }
   int a;

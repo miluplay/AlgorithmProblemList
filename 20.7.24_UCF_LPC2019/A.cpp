@@ -1,3 +1,5 @@
+// https://www.jisuanke.com/contest/10442
+
 #include <iostream>
 using namespace std;
 int main() {
@@ -6,8 +8,3 @@ int main() {
   cout << m * n - 2 * (n - 1) << endl;
   return 0;
 }
-
-
-/*
-https://www.jisuanke.com/contest/10442
-*/
