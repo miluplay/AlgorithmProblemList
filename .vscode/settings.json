@@ -6,5 +6,8 @@
     },
     "[c]": {
         "editor.quickSuggestions": true
+    },
+    "files.associations": {
+        "ostream": "cpp"
     }
 }
