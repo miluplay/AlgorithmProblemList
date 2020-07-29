@@ -8,6 +8,7 @@
         "editor.quickSuggestions": true
     },
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "valarray": "cpp"
     }
 }
