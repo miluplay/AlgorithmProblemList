@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\OneDrive\\code_space\\新建文件夹"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"valarray": "cpp"
+		}
+	}
+}
