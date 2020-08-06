@@ -3,7 +3,6 @@
 #define ll long long
 using namespace std;
 int main() {
-  ll x = 1;
   ll n;
   while (cin >> n && n != 0) {
     ll N = 2 * n, a = sqrt(N), X, Y;
