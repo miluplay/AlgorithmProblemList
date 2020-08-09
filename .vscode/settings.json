@@ -9,6 +9,10 @@
     },
     "files.associations": {
         "ostream": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "cstring": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp"
     }
 }
