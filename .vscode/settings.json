@@ -13,6 +13,7 @@
         "iostream": "cpp",
         "cstring": "cpp",
         "typeinfo": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "set": "cpp"
     }
 }
