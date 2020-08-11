@@ -1,4 +1,4 @@
-// Link:https://www.51nod.com/Challenge/Problem.html#problemId=1000
+// Link: https://www.51nod.com/Challenge/Problem.html#problemId=1000
 // Solved!
 // grammar
 #include <iostream>
