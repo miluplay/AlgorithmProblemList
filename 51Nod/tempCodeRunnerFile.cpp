@@ -4,17 +4,14 @@
 using namespace std;
 int main() {
   BT int a, b;
-  bool flag = false;
   cin >> a >> b;
-  if (a > 0 && b > 0) {
-    if (a + b < a) flag = true;
-  } else if (a > 0) {
-    if (a + b > a || a + b < b) flag = true;
-  } else if (b > 0) {
-    if (a + b < a || a + b > b) flag = true;
-  } else if (a + b > a)
-    flag = true;
-  if (flag)
+  if (a > 0 && b > 0 && a + b < a)
+    cout << "Yes" << endl;
+  else if (a > 0 && (a + b > a || a + b < b))
+    cout << "Yes" << endl;
+  else if (b > 0 && (a + b < a || a + b > b))
+    cout << "Yes" << endl;
+  else if (a + b > a)
     cout << "Yes" << endl;
   else
     cout << "No" << endl;
