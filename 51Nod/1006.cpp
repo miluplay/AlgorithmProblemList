@@ -4,7 +4,8 @@
 #define BT ios::sync_with_stdio(false), std::cin.tie(0), std::cout.tie(0);
 using namespace std;
 int main() {
-  BT string a, b;
+  BT string a, b,c;
   cin >> a >> b;
+  
   return 0;
 }
