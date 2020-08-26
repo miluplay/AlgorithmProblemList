@@ -3,7 +3,7 @@
 using namespace std;
 struct node {
   int a, b;
-} arr[111];
+} arr[1111];
 int main() {
   int n, i;
   cin >> n;
@@ -12,7 +12,7 @@ int main() {
     int nums = 0;
     for (int j = 0; j < n; j++)
       if (i >= arr[j].a && i <= arr[j].b) nums++;
-    if (nums >= i) {
+    if (nums == i) {
       cout << i << endl;
       return 0;
     }
